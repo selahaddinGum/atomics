@@ -18,7 +18,7 @@ publishDate: '2022-05-10T00:00:00Z'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: IEEE'
+publication: 'IEEE International Symposium on Information Theory' 
 
 abstract: Computation that can exploit the Avogadrian numbers of molecules in heterogeneous solutions, and the even larger number of potential interactions among these molecules, is a tantalizing dream. However, the lack of precise specificity/control of chemical interactions can be at odds with the dream. In this paper, we show how relatively simple chemistry can be used to produce a ubiquitous computational primitive (the multiply-accumulate or MAC operation) that forms the basis for a single-layer neural network called a perceptron. A chemical perceptron can be realized using distinct mixtures as inputs and different reagents as operations to produce the results of the perceptron MAC operation, that can be read out perhaps using simple indicators such as pH or fluorescence. With a moderately large chemical library, the number of potential inputs can be Avogadrian so that reagent addition implicitly performs a concomitantly large number of MAC operations in parallel. 
 

@@ -24,7 +24,7 @@ publishDate: '2022-05-10T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: Chemical Science'
+publication: 'Chemical Science'
 
 abstract: Autocatalysis is fundamental to many biological processes, and kinetic models of autocatalytic reactions have mathematical forms similar to activation functions used in artificial neural networks. Inspired by these similarities, we use an autocatalytic reaction, the copper-catalyzed azide–alkyne cycloaddition, to perform digital image recognition tasks. Images are encoded in the concentration of a catalyst across an array of liquid samples, and the classification is performed with a sequence of automated fluid transfers. The outputs of the operations are monitored using UV-vis spectroscopy. The growing interest in molecular information storage suggests that methods for computing in chemistry will become increasingly important for querying and manipulating molecular memory. 
 

@@ -22,3 +22,5 @@ design:
   view: 3
   columns: '1'
 ---
+
+{{% cta cta_link="./post/" cta_text="Check Out All Our News →" %}}

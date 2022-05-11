@@ -17,7 +17,18 @@ name = "Minimal"
 
 [dark]
   # Primary
-  primary = "#bbdefb"
+  primary = "#1565c0"
+
+  # Menu
+  menu_primary = "#2c3531"
+  menu_text = "#D1E8E2"
+  menu_text_active = "#116466"
+  menu_title = "#D9B08CC"
+
+  # Home sections
+  home_section_odd = "2C3531"
+  home_section_even = "rgb(27, 30, 29)"
+  #primary = "#bbdefb"
 
   link = "#bbdefb"
   link_hover = "#bbdefb"

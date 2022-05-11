@@ -15,23 +15,22 @@ subtitle:
 content:
   # Contact (edit or remove options as required)
 
-  email: test@example.org
-  phone: 888 888 88 88
+  #email: test@example.org
+  #phone: 888 888 88 88
   address:
-    street: 450 Serra Mall
-    city: Stanford
-    region: CA
-    postcode: '94305'
+    street: 1 Prospect St
+    city: Providence 
+    region: RI
+    postcode: '02912'
     country: United States
     country_code: US
   coordinates:
-    latitude: '37.4275'
-    longitude: '-122.1697'
+    latitude: '41.826820'
+    longitude: '-71.402931'
   directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
   office_hours:
-    - 'Monday 10:00 to 13:00'
-    - 'Wednesday 09:00 to 10:00'
-  appointment_url: 'https://calendly.com'
+    - 'Monday-Friday during business hours'  
+  #appointment_url: 'https://calendly.com'
   #contact_links:
   #  - icon: comments
   #    icon_pack: fas
@@ -54,4 +53,4 @@ design:
   columns: '1'
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.
+We understand you likely have questions regarding our research and technology. If you would like to reach out, please use the following form and we'll respond to you ASAP. Alternatively, if you're a potential investor, please use the Investors link in the menu and fill out the form there. Finally, if you would like to subscribe to our newsletter or RSS feed, those options are also in the menu above.

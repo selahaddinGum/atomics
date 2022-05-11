@@ -28,7 +28,7 @@ publishDate: '2022-05-10T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: 'Nature'
+publication: 'IEEE Transactions on Nanobioscience' 
 
 abstract: Multicomponent reactions enable the synthesis of large molecular libraries from relatively few inputs. This scalability has led to the broad adoption of these reactions by the pharmaceutical industry. Here, we employ the four-component Ugi reaction to demonstrate that multicomponent reactions can provide a basis for large-scale molecular data storage. Using this combinatorial chemistry we encode more than 1.8 million bits of art historical images, including a Cubist drawing by Picasso. Digital data is written using robotically synthesized libraries of Ugi products, and the files are read back using mass spectrometry. We combine sparse mixture mapping with supervised learning to achieve bit error rates as low as 0.11% for single reads, without library purification. In addition to improved scaling of non-biological molecular data storage, these demonstrations offer an information-centric perspective on the high-throughput synthesis and screening of small-molecule libraries. 
 
