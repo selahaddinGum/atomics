@@ -1,21 +1,21 @@
 ---
 # Display name
-title: Selahaddin Gumus
+title: Brenda M. Rubenstein 
 
 # Username (this should match the folder name)
 authors:
-  - sel 
+  - brenda 
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: PhD Candidate in Chemistry at Brown University 
+role: Professor in Engineering at Brown University 
 
 # Organizations/Affiliations
 organizations:
   - name: Brown University
-    url: 'https://www.brown.edu'
+    url: 'https://www.brown.edu/academics/chemistry/people/faculty/brenda-m-rubenstein'
 
 # Short bio (displayed in user profile at end of posts)
 #bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -27,15 +27,15 @@ organizations:
 
 education:
   courses:
-    - course: PhD in Chemistry
-      institution: Brown University
-      year: 2024
-    - course: MSc in Chemistry 
-      institution: Western Kentucky  University 
-      year: 2018
-    - course: BSc in Chemistry 
-      institution: Bilkent University 
-      year: 2015
+    - course: PhD in Electrical Engineering 
+      institution: Columbia Engineering 
+      year: 2012
+    - course: M.S. in Electrical Engineering
+      institution: Columbia University in the City of New York 
+      year: 2009
+    - course: Sc.B. in Computer Engineering 
+      institution: Brown University 
+      year: 2005
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -44,10 +44,10 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:selahaddin_gumus@brown.edu'
+    link: 'mailto:Jacob_Rosenstein@brown.edu '
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/selahaddin-gumus-a481681b0/
+    link: https://www.linkedin.com/in/jacob-rosenstein-a031515/ 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -60,5 +60,5 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Co-Founder 
+  - Scientific Founder 
 ---

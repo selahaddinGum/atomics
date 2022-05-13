@@ -6,7 +6,7 @@ title: Dana Biechele-Speziale
 superuser: false
 
 # Role/position
-role: Not sure yet lol 
+role: PhD Candidate in Chemistry at Brown University 
 
 # Organizations/Affiliations
 organizations:
@@ -56,5 +56,5 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+  - Co-Founder 
 ---
