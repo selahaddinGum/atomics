@@ -4,24 +4,24 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: Investors
-    url: forms
-    weight: 61
   - name: Newsletter
     url: mail
     weight: 62
   - name: News
     url: /#news
     weight: 20
+  - name: Challenge
+    url: /#challenge
+    weight: 10
+  - name: Solution
+    url: /#solution
+    weight: 15
   - name: People
     url: /#cta
     weight: 30
     #- name: Events
     #  url: event
     #  weight: 40
-  - name: Publications
-    url: /#welcome
-    weight: 10
   - name: Contact
     url: /#contact
     weight: 60

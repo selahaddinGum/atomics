@@ -53,4 +53,5 @@ design:
   columns: '1'
 ---
 
-We understand you likely have questions regarding our research and technology. If you would like to reach out, please use the following form and we'll respond to you ASAP. Alternatively, if you're a potential investor, please use the Investors link in the menu and fill out the form there. Finally, if you would like to subscribe to our newsletter or RSS feed, those options are also in the menu above.
+If you are interested in what we're doing or have any questions, we would love to hear from you.
+
